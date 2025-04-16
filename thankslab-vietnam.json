@@ -1,0 +1,17 @@
+{
+  "name": "Thankslab Vietnam",
+  "url": "https://thankslab.com.vn/",
+  "careersPageUrl": "mailto:hr@thankslab.vn",
+  "email": "recruit-vn@thankslab.biz",
+  "region": "Asia",
+  "country": "Vietnam",
+  "description": "Thankslab is an HR Tech company specializing in employee engagement and digital transformation for modern workplaces.",
+  "positions": [
+    {
+      "title": "Senior Linux Engineer",
+      "description": "Design and manage integrated server/network/security systems to deploy game, web, and app services. Anticipate and prevent potential issues before they occur. Lead planning and project management in Linux environments. Ensure optimal performance of Linux OS, application systems, and internal websites. Manage full system lifecycle in hybrid Linux/PHP environments.\n\nRequirements:\n- Bachelor's degree in IT or related field\n- 5+ years of experience in Linux-based system management for mobile/web services at a senior level\n- Experience in English-speaking working environments\n\nTechnical Skills:\n- OS: CentOS, Ubuntu, Debian, Rocky Linux, Amazon Linux, RHEL\n- Languages: Bash, Python\n- Systems: AWS, Docker, Apache, Nginx, Node.js, MySQL, Grafana, KVM, iptables, LDAP, BIND, DHCP, Jenkins, OpenVPN\n- Devices: Omada Controller, Wireless Mesh Network, PFsense, Opensense, Multi WAN Routers\n- Tools: SVN, GitHub, GitLab, Microsoft Teams, Slack, Skype\n\nSoft Skills:\n- Strong communication and reporting skills\n- Ability to learn new technologies
+"applyUrl": "mailto:recruit-vn@thankslab.biz",
+      "remote": 
+    }
+  ]
+}
